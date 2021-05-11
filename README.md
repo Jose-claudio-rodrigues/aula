@@ -1,2 +1,4 @@
 # aula
-aula de github
+### fundamentos de github
+- fudamentos
+- prática
